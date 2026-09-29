@@ -1,6 +1,7 @@
 # Daryna Fornalska
 
-**Co-founder & Product / AI Lead at [Deep In](https://deepin.world).**
+**Co-founder & Product / AI Lead at Deep In.**  
+We help English learners understand native speech through real videos and an AI companion.
 
 My full focus is building Deep In: helping people who have studied English understand how native speakers actually talk.
 
