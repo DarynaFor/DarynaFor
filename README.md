@@ -3,7 +3,7 @@
 **Co-founder & Product / AI Lead at Deep In.**  
 We help English learners understand native speech through real videos and an AI companion.
 
-My full focus is building Deep In: helping people who have studied English understand how native speakers actually talk.
+I build whole products with AI agents: the product, the design and the AI experience, from the first idea to the store release.
 
 ## Building Deep In
 
@@ -15,6 +15,4 @@ I work on the product and AI experience, from what a learner needs in the moment
 
 ## An open-source contribution
 
-[Varta MCP](https://github.com/DarynaFor/mcp-varta) grew out of an anti-spam tool I built for my own use. I shared the MCP integration so others could use it too. The service runs largely autonomously, with automated checks and maintenance and occasional additions from me.
-
-Deep In is my main commitment; Varta remains a personal utility I share with the community.
+[Varta MCP](https://github.com/DarynaFor/mcp-varta) grew out of an anti-spam tool I built for my own community chat. I shared the MCP integration so others could use it too. The service runs largely autonomously, with automated checks and maintenance.
